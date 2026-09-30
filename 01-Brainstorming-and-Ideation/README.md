@@ -1,0 +1,26 @@
+# 📌 Phase 1: Project Requirement and Scope
+
+---
+
+## 🎯 Project Title
+### **Auto Ticket Classification using Flow Designer**
+
+---
+
+## 🏈 Objective
+To automate the classification of IT support tickets using **ServiceNow Flow Designer**, reducing manual assignment effort and speeding up issue resolution.
+
+---
+
+## 🔍 Scope
+* 🎟️ **Ticket Processing:** Automatically process incoming school and organization IT support tickets.
+* 📝 **Description Analysis:** Read the **Short Description** entered by the user.
+* 🔑 **Keyword Recognition:** Identify key terms like `WiFi`, `Projector`, `Password`, or `Slow Computer`.
+* 🔀 **Auto Categorization:** Automatically assign the correct **Category** and **Subcategory**.
+* 📧 **Automated Notifications:** Send immediate email notifications to the caller upon successful classification.
+
+---
+
+## 👥 Target Audience
+* 🧑‍💻 School and college IT support administrators
+* 🧑‍🎓 Students, faculty, and staff members submitting support requests
